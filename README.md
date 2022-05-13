@@ -2,6 +2,7 @@
 ### Integrating “Login with Unstoppable” as a Dapp login option
 
 Discord ID: [NicoSiput#2643](https://discordapp.com/users/524064020437925888)
+
 Unstoppable Domains email address: nicosiput@gmail.com
 
 ## #1 Lottery Hive Daap

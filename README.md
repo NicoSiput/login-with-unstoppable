@@ -6,4 +6,5 @@ Unstoppable Domains email address: nicosiput@gmail.com
 
 ## #1 Lottery Hive Daap
 pull request: Lotter-Hive#1(https://github.com/NicoSiput/lottery-hive/pull/1)
+
 video: -

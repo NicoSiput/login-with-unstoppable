@@ -3,9 +3,9 @@
 
 Discord ID: [NicoSiput#2643](https://discordapp.com/users/524064020437925888)
 
-Unstoppable Domains email address: nicosiput@gmail.com
+Unstoppable Domains email address: work.nicosiput@gmail.com
 
 ## #1 Lottery Hive Daap
 pull request: (https://github.com/NicoSiput/lottery-hive/pull/1)
 
-video: -
+video: Lottery Hive Video (https://youtu.be/3CMUSu5a2No)
